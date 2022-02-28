@@ -1,1 +1,1 @@
-# Landing-Page
+# Repository created exclusively to test my web manipulation skills.

@@ -153,32 +153,4 @@ section{
     height: 300px;
 }
 
-footer{
-    width: 100%;
-    padding: 20px 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-footer ul{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-footer ul li{
-    list-style: none;
-    margin-left: 10px;
-}
-
-footer ul li a{
-    font-size: 14px;
-    text-decoration: none;
-    padding: 6px 15px;
-    color: var(--bg);
-}
-
-footer ul li a:hover{
-    color: var(--main-color);
-}
+/*  Responsividade em Breve */
